@@ -3,6 +3,7 @@
 using namespace std;
 
 int main()
+string Cabeza
 {
     cout << haziendo git hub perros << endl;
 
