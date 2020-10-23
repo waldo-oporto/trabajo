@@ -6,6 +6,7 @@ int main()
 
 string Cabeza
 bool 9,8;
+char "o";
 {
     cout << haziendo git hub perros << endl;
 
