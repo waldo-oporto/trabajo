@@ -5,6 +5,7 @@ using namespace std;
 int main()
 
 string Cabeza
+bool 9,8;
 {
     cout << haziendo git hub perros << endl;
 
