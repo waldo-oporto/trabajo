@@ -11,11 +11,9 @@ char "o";
     cout << haziendo git hub perros << endl;
 
 cout << haziendo git hub perros << endl;
-cout << nose nose <<endl;
+cout << nose nose << endl;
 
-cout << vamos lucas podes mejorar y encotrar la waifu >>
+cout << vamos lucas podes mejorar y encotrar la waifu << endl;
 
-
->>>>>>> Cabeza
     return 0;
 }
